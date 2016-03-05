@@ -1,0 +1,19 @@
+0.BMP - 1-,4-,8-,16-,24- and 32-bit color; GIF- 8-bit color(256 colors); JPEG,PNG - 24-bit color(16.77 million colors);
+1.GIF supports animation.
+2.With lossless compression, every single bit of data that was originally in the file remains after the file is uncompressed. All of the information is completely restored.On the other hand, lossy compression reduces a file by permanently eliminating certain information, especially redundant information. When the file is uncompressed, only a part of the original information is still there.
+3.JPEG.
+4.The system modifies the filename's first character in the file's directory and moves all of the file's FAT clusters to the hard drive's list of free clusters.
+5.Overwrite the drive's free space or Degauss the drive, which randomizes the drive's magnetic domain or Physically destroy the drive, thereby rendering it unusable.
+6.stdint.h is a header file in the C standard library  to allow programmers to write more portable code by providing a set of typedefs that specify exact-width integer types, together with the defined minimum and maximum allowable values for each type, using macros.
+7.These Datatypes are fixed length. for instance consider int32_t, it's an alias for whatever integer type your particular system has that is exactly 32 bits. uint32_t is the same, but for unsigned 32 bit values. On one system, that might be unsigned int and on another unsigned long.
+8.A BYTE - 1 byte(8 bit), DWORD and LONG - 4 bytes(32bit) and WORD - 2 bytes(16 bit). 
+9.ASCII Value-BM and hex value - 0x42 0x4D.
+10.bfSize is the total number of bytes in the file.biSize is the number of bytes in the info header.
+11.The negative value of biHeight suggests that it is a top-down DIB whose origin is at the top left corner. 
+12.biBitCount.
+13.This might be because of certain reasons, no write permission for that directory or not enough space or it cant find the file.
+14.It specifies how many elements you want to read, and we're always reading a struct so we only need 1 struct.
+15.The padding would be 3.
+16.The fseek sets the file position of the stream to the given offset.
+17.SEEK_CUR gets the Current position of the file pointer.
+18.Its ROB Bowden with a cat!!!

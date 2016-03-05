@@ -1,0 +1,11 @@
+1.A lung disease caused by inhalation of sand and dust.
+2.getrusage() returns resource usage measures for either calling process or for all children of the  calling  process  that have  terminated  and  been  waited  for or for calling thread.
+3.16
+4.to save time and memory.
+5.It checks the character one by one with alphabets or apostrophes. It continues until it reaches non alphabetical character(like \n).then its null terminated and spell checked.If a number is detected inbetween then the line is removed.
+6.In fgetc we read character by character and also there is buffer overflow issues in fscanf.
+7.check and load are defined constants so that it can only be read by. when tried to write it, the program shows errors.
+8.trie. each node has an array of 27 children nodes and a boolean value indicating if this node is the end of a word.
+9. Total time of 0.14 sec
+10.NONE
+11.NONE
